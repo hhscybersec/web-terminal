@@ -20,13 +20,11 @@ export const introMessage = [
   "|                                                                             |",
   "+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+",
   "",
-  "   Welcome to WebVM. If unsure, try these examples:",
+  "   Welcome to WebVM",
+  "   Adapted for Homestead High School Cybersecurity Club 2026-27",
   "",
-  "     python3 examples/python3/fibonacci.py ",
-  "     gcc -o helloworld examples/c/helloworld.c && ./helloworld",
-  "     objdump -d ./helloworld | less -M",
-  "     vim examples/c/helloworld.c",
-  "     curl --max-time 15 parrot.live  # requires networking",
+  "     09/21: Put \"Password123!\" into a file named \"password.txt\" in a folder named \"club\"",
+  "            Further instructions will be provided upon completion",
   "",
 ];
 export const errorMessage = [
